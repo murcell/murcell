@@ -33,10 +33,15 @@
 ---
 
 ## Stats & activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murcell&show_icons=true&count_private=true&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murcell&layout=compact&langs_count=8&hide=javascript,html,css,scss,c%2B%2B,c&custom_title=Top%20Languages%20%E2%80%94%20C%23&v=1)
+<!-- İstatistik kartı (rütbe yüzdelik olarak; harf karışıklığını önler) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murcell&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&v=2)
 
+<!-- Diller kartı: C#, diğerleri gizlenmiş; başlıkta C# (C%23) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murcell&layout=compact&langs_count=8&hide=javascript,html,css,scss,c%2B%2B,c&custom_title=Most%20Used%20Languages%20—%20C%23&v=2)
+
+<!-- Kullandığın teknolojiler (ikonlar) -->
+![Tech](https://skillicons.dev/icons?i=cs,dotnet,aspnet,ef,redis,rabbitmq,docker,mongodb,sqlserver,vue,git&perline=8)
 
 ---
 
