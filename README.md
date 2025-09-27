@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I’m Mürsel Gürkan 👋
 
-<!--
-**murcell/murcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET Developer** focused on **Clean Architecture**, **Microservices**, and high-quality Web APIs.
 
-Here are some ideas to get you started:
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-Developer-blue?logo=csharp)](https://learn.microsoft.com/dotnet/csharp/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-512BD4?logo=dotnet)](https://learn.microsoft.com/aspnet/core/)
+[![EF Core](https://img.shields.io/badge/Entity%20Framework-Core-2D9CDB)](https://learn.microsoft.com/ef/core/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Vue.js](https://img.shields.io/badge/Vue.js-2.6.14-42B883?logo=vue.js&logoColor=white)](https://vuejs.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+- I build maintainable systems with **Clean Architecture** and **DDD-inspired** boundaries.
+- I enjoy designing **distributed systems** with **RabbitMQ**, **Redis**, and **Docker**.
+- Current interests: **nopCommerce 5.1.x**, **EF Core 8+ performance**, **MongoDB geospatial**.
+
+---
+
+## Tech stack (daily drivers)
+**Back-end:** C#, ASP.NET Core, EF Core, MediatR, FluentValidation  
+**Data:** SQL Server, MongoDB, Redis  
+**Messaging:** RabbitMQ, MassTransit  
+**DevOps:** Docker, Docker Compose, GitHub Actions (basics)  
+**Front-end:** HTML/CSS/JS  
+**Patterns:** Clean Architecture, CQRS, Caching, Idempotency, Rate Limiting
+
+---
+
+## Stats & activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murcell&show_icons=true&count_private=true)
+
+<!-- C#’ın baskın görünmesi için JS/HTML/CSS’i gizledim; dil kartı repo boyutuna göre hesap yapar -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murcell&layout=compact&langs_count=8&hide=javascript,html,css,scss&exclude_repo=E-SourcingMicroService,mursell)
+
+
+---
+
+## Contact
+- **Email:** your.email@example.com *(replace)*  
+- **LinkedIn:** https://www.linkedin.com/in/your-handle *(replace)*  
+- **Website/Blog:** https://your-domain.dev *(optional)*
+
+> Tip: Keep your profile README concise; link out to detailed docs in repos.
