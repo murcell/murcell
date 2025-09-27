@@ -33,17 +33,16 @@
 ---
 
 ## Stats & activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murcell&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murcell&show_icons=true&count_private=true&v=1)
 
-<!-- C#’ın baskın görünmesi için JS/HTML/CSS’i gizledim; dil kartı repo boyutuna göre hesap yapar -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murcell&layout=compact&langs_count=8&hide=javascript,html,css,scss&exclude_repo=E-SourcingMicroService,mursell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murcell&layout=compact&langs_count=8&hide=javascript,html,css,scss,c%2B%2B,c&custom_title=Top%20Languages%20%E2%80%94%20C%23&v=1)
 
 
 ---
 
 ## Contact
-- **Email:** your.email@example.com *(replace)*  
-- **LinkedIn:** https://www.linkedin.com/in/your-handle *(replace)*  
+- **Email:** murselgurkan@gmail.com *(replace)*  
+- **LinkedIn:** [https://www.linkedin.com/in/your-handle ](https://www.linkedin.com/in/m%C3%BCrsel-g%C3%BCrkan-551b7613a/)*(replace)*  
 - **Website/Blog:** https://your-domain.dev *(optional)*
 
 > Tip: Keep your profile README concise; link out to detailed docs in repos.
