@@ -21,7 +21,7 @@
 
 ---
 
-## Tech stack (daily drivers)
+## Tech stack
 **Back-end:** C#, ASP.NET Core, EF Core, MediatR, FluentValidation  
 **Data:** SQL Server, MongoDB, Redis  
 **Messaging:** RabbitMQ, MassTransit  
