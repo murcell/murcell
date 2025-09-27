@@ -46,6 +46,6 @@
 ---
 
 ## Contact
-- **Email:** murselgurkan@gmail.com *(replace)*  
-- **LinkedIn:** [https://www.linkedin.com/in/your-handle ](https://www.linkedin.com/in/m%C3%BCrsel-g%C3%BCrkan-551b7613a/)*(replace)*  
+- **Email:** murselgurkan@gmail.com 
+- **LinkedIn:** [https://www.linkedin.com/in/your-handle ](https://www.linkedin.com/in/m%C3%BCrsel-g%C3%BCrkan-551b7613a/)
 
